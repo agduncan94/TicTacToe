@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about">This is a very basic version of Tic Tac Toe.  Simply click on the tile to place an X or an O.  I hope in the future to add more features.</string>
+
+</resources>
